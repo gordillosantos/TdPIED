@@ -20,5 +20,5 @@ GG3 Técniques  de producció  i edició Digital
 
 
 ## p8
-Coronavirus material oli [“ material oli ”].(p8.jpg
+Coronavirus material oli [“ material oli ”].(p8.jpg).
 
