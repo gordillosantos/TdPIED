@@ -7,6 +7,7 @@ GG3 Técniques  de producció  i edició Digital
 ## p5
 ## p6
 ## p7
+[tunel tipografico p7](p7.gif)
 ## p8
 [corona virus _materiales p8](p8.jpg)
 
