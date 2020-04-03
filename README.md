@@ -2,6 +2,7 @@
 GG3 Técniques  de producció  i edició Digital
 ## p1
 ## p2
+[letras ola p2](p2.gif)
 ## p3
 ## p4
 ## p5
