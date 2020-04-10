@@ -1,6 +1,7 @@
 # TdPIED
 GG3 Técniques  de producció  i edició Digital
 ## p1
+[love is all ve need p1](p1.gif)
 ## p2
 [letras ola p2](p2.gif)
 ## p3
