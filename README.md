@@ -7,6 +7,7 @@ GG3 Técniques  de producció  i edició Digital
 ## p3
 [revolta ](p3.gif)
 ## p4
+[full paper p4](p4.gif)
 ## p5
 ## p6
 ## p7
