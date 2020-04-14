@@ -9,6 +9,7 @@ GG3 Técniques  de producció  i edició Digital
 ## p4
 [full paper p4](p4.gif)
 ## p5
+[no es no p5](p5.gif)
 ## p6
 ## p7
 [tunel tipografico p7](p7.gif)
