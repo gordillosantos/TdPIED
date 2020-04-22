@@ -21,4 +21,5 @@ GG3 Técniques  de producció  i edició Digital
 ##  p10  
 [constructivismo ruso Lissitzky](p10.jpg)
 
+## p11
 [personaje  capsula](p110.jpg)
