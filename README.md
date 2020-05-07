@@ -23,3 +23,7 @@ GG3 Técniques  de producció  i edició Digital
 
 ## p11
 [personaje  capsula](p110.jpg)
+
+##  p12
+[personaje limonchelo](p12_imagen_personaje_limonchelo_rafael_gordillo_santos)
+[personaje limonchelo 360º](p12_video_personaje_limonchelo_rafael_gordillo_santos)
