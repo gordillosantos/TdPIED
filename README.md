@@ -19,11 +19,11 @@ GG3 Técniques  de producció  i edició Digital
 ## p9
 [bodegon materiales P9](p9.jpg)
 ##  p10  
-[constructivismo ruso Lissitzky](p10.jpg)
+[constructivismo ruso Lissitzky](p10.jpg) 
 
 ## p11
 [personaje  capsula](p110.jpg)
 
-##  p12
 [personaje limonchelo](p12_imagen_personaje_limonchelo_rafael_gordillo_santos.jpg)
+video  personaje 360º
 [personaje limonchelo 360](p12_video_personaje_limonchelo_rafael_gordillo_santos.mp4)
